@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WILSKY20
+- 👀 I’m interested in web development and application design 
+- 🌱 I’m currently learning computer science at Temple University as a senior 
+- 💞️ I’m looking to collaborate on website development or any application design 
+- 📫 How to reach me via email: kyle.wilson003@temple.edu or LinkedIn: https://www.linkedin.com/in/kyle-wilson-5283b91b3/ 
